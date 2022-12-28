@@ -7,9 +7,6 @@ def first(*a):
             v = f.read()
             pass
     except:
-        os.system("pip install requests")
-        os.system("pip install smtp")
-        os.system("pip install telethon")
         print("\n\n\n\n© BoburBro ")
         time.sleep(0.5)
         print("Bu tool faqat talim maqsadida!")
