@@ -75,8 +75,6 @@ def update(*a):
         except:
             input("data fayl topilmadi update boshlash uchun istalgan tugmani bosing")
             os.system("git clone https://github.com/Boburbro/data")
-            with open("data/name.txt", "w"):
-                pass
             input("Bajarildi")
     else:
         exit()
