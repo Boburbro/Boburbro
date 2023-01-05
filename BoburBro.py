@@ -97,6 +97,8 @@ def analiz():
         try:
             from data.pips import up
             up()
+        except:
+            pass
 
 
     except Exception as e:
