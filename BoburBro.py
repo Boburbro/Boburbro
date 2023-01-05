@@ -72,6 +72,11 @@ def update(*a):
                         print("Nimdur xato ketdi data fayl topilmadi")
                         print("Sizda git yoq shekili negadir data faylni ololmadim")
 
+                else:
+                    with open("data/name.txt", "w"):
+                        pass
+
+
         except:
             input("data fayl topilmadi update boshlash uchun istalgan tugmani bosing")
             os.system("git clone https://github.com/Boburbro/data")
