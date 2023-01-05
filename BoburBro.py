@@ -13,6 +13,11 @@ def first(*a):
         time.sleep(0.5)
         print("Bu tool bilan qilingan harqanday jinoyat uchun BoburBro ayibdor emas")
         time.sleep(0.5)
+        with open("data/name.txt", "w"):
+            pass
+        
+
+
 
 
 
