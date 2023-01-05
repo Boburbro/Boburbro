@@ -92,7 +92,8 @@ def analiz():
         if a == "..up":
             update()
         run1()
-
+    except (ImportError):
+        update()
     except Exception as e:
         print(e, 'Nimadur xato!\nupdate qiling')
 
