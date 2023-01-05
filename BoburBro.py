@@ -1,5 +1,5 @@
 import time
-import os,sys
+import os
 def first(*a):
 
     try:
@@ -13,9 +13,6 @@ def first(*a):
         time.sleep(0.5)
         print("Bu tool bilan qilingan harqanday jinoyat uchun BoburBro ayibdor emas")
         time.sleep(0.5)
-
-
-
 
 
 
@@ -72,11 +69,6 @@ def update(*a):
                         print("Nimdur xato ketdi data fayl topilmadi")
                         print("Sizda git yoq shekili negadir data faylni ololmadim")
 
-                else:
-                    with open("data/name.txt", "w"):
-                        pass
-
-
         except:
             input("data fayl topilmadi update boshlash uchun istalgan tugmani bosing")
             os.system("git clone https://github.com/Boburbro/data")
@@ -100,8 +92,6 @@ def analiz():
         if a == "..up":
             update()
         run1()
-    except(ImportError):
-        update()
 
     except Exception as e:
         print(e, 'Nimadur xato!\nupdate qiling')
