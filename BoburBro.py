@@ -13,9 +13,7 @@ def first(*a):
         time.sleep(0.5)
         print("Bu tool bilan qilingan harqanday jinoyat uchun BoburBro ayibdor emas")
         time.sleep(0.5)
-        with open("data/name.txt", "w"):
-            pass
-        
+
 
 
 
@@ -77,6 +75,8 @@ def update(*a):
         except:
             input("data fayl topilmadi update boshlash uchun istalgan tugmani bosing")
             os.system("git clone https://github.com/Boburbro/data")
+            with open("data/name.txt", "w"):
+                pass
             input("Bajarildi")
     else:
         exit()
