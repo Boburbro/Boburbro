@@ -94,6 +94,11 @@ def analiz():
         run1()
     except (ImportError):
         update()
+        try:
+            from data.pips import up
+            up()
+
+
     except Exception as e:
         print(e, 'Nimadur xato!\nupdate qiling')
 
