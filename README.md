@@ -1,16 +1,21 @@
-### Hi there 👋
+### © BoburBro tool 
 
-<!--
-**Boburbro/Boburbro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Haqida:
+BoburBro 2023-yil 2-yanvardan boshlab foydalanishga taqdim qilingan.
+Bu toolda hackerlik vositalari mavjud bo'lib siz bir vaqtni o'zida 
+prlajenyani o'zidan chiqmasdan turib update qilish imkoniyatini beradi.
 
-Here are some ideas to get you started:
+# Talablari:
+Python3
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python2.7
+
+Bash
+
+
+# Yuklab olish:
+`git clone https://github.com/BoburBro/Boburbro`
+
+`cd Boburbro`
+
+`python3 Boburbro`
