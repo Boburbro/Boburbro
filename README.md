@@ -1,5 +1,8 @@
 ### © BoburBro tool 
 
+Bog'lanish ==> https://t.me/Boburbro_tg
+
+
 # Haqida:
 BoburBro 2023-yil 2-yanvardan boshlab foydalanishga taqdim qilingan.
 Bu toolda hackerlik vositalari mavjud bo'lib siz bir vaqtni o'zida 
