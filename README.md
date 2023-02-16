@@ -10,6 +10,8 @@
 
 <br> -->
 
+
+
 <div align="center">
   <a href="https://github.com/turdibek-jumabaev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Boburbro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -24,8 +26,16 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Boburbro&theme=tokyonight_duo&hide_border=true" />
 </div>
 
-<br>  
+<br>
+
+  <a href="https://github.com/Boburbro"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Boburbro&theme=github_dark"></a>
+
+ <a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=nurbekdev&column=8&theme=gruvbox&no-frame=true"/>
+</a>
   
+
 ## 💼 Technical Skills
   #### 📋 Languages
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
@@ -43,10 +53,10 @@
 
   
   
-  <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
 
 
 
+---
 
 ### © BoburBro tool 
 
