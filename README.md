@@ -58,6 +58,6 @@
 
 ---
 
-### © BoburBro tool 
+### © TCT - Tech coding team 
 
-Bog'lanish ==> https://t.me/Boburbro_tg
+Bog'lanish ==> https://t.me/TCTuzb
