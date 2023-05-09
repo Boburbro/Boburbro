@@ -49,4 +49,4 @@
 ### © TCT - Tech Coding Team 
 
 Bog'lanish ==> https://t.me/TCTuzb
-![TCT](https://telegra.ph/TCT---TechCodingTeam-05-06)
+Qo'shimcha malumot => https://telegra.ph/TCT---TechCodingTeam-05-06
