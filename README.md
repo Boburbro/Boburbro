@@ -5,7 +5,7 @@
 <br>
 
 <!-- <p align="center">
-  <a href="https://github.com/nurbekdev/readmeda-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23318CF7&size=19&width=403&height=60&lines=Python+Aiogram+Django+pyTelegramBotAPI"></a>
+  <a href="https://github.com/nurbekdev/readmeda-typing-svg"><img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Boburbro&show_icons=true&theme=radical)"></a>
 </p>
 
 <br> -->
