@@ -13,8 +13,8 @@
 
 
 <div align="center">
-  <a href="https://github.com/turdibek-jumabaev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Boburbro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/Boburbro">
+  <img height="180em" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Boburbro&show_icons=true&theme=transparent)"/>
   <img height="180em" style="border:3px solid red;"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boburbro&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
