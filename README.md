@@ -28,6 +28,19 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Boburbro&icon=2&color=0)](https://visitcount.itsvg.in)
 
+
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+# Diagram 
+
+[![ProfessorDeveloper's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Boburbro&theme=dracula)](https://github.com/Boburbro)
+
+# My Waka Time
+[![StcAndroid's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Boburbro&theme=radical)](https://wakatime.com/@Boburbro)
+
+
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
