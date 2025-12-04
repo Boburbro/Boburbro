@@ -38,7 +38,7 @@
 [![ProfessorDeveloper's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Boburbro&theme=dracula)](https://github.com/Boburbro)
 
 # My Waka Time
-[![StcAndroid's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Boburbro&theme=radical)](https://wakatime.com/@Boburbro)
+[![Boburbro's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Boburbro&theme=radical)](https://wakatime.com/@Boburbro)
 
 
 </div>
